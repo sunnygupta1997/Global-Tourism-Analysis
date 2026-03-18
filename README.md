@@ -65,6 +65,6 @@ This dashboard helps:
 Sunny Gupta
 Aspiring Data Analyst
 🔗 Connect with Me
-- 💼 LinkedIn: [Sunny Gupta](https://www.linkedin.com/in/sunny-gupta-529b101b6/)
+- 💼 LinkedIn: www.linkedin.com/in/sunny-gupta-529b101b6 
 - 📧 Email: sunnygupta53418@gmail.com
 
